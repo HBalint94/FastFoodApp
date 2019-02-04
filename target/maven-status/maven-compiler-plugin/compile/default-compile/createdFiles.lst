@@ -1,0 +1,4 @@
+entity\Burger.class
+entity\Drink.class
+entity\Item.class
+dao\FastFoodDAO.class
